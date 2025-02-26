@@ -1,7 +1,6 @@
 ---
 layout: post
-title: DBMS
-description: Lorem ipsum dolor est
+title: MEN AT WORK
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
