@@ -1,17 +1,17 @@
 # site settings
-title: Yeshey Zhennue
+title: Database System Fundamentals
 subtitle: by HTML5 UP
 email: 02240372.cst@rub.edu.bt
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:Yeshey Zhennue 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author:
+street_address: Phentsholing
+city: Chukha
+state: Rinchending
+zip_code: 21101
+country: Bhutan
+phone: (+975) 17458094 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
